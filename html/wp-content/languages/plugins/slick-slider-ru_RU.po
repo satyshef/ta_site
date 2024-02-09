@@ -1,0 +1,479 @@
+# Translation of Plugins - Slick Slider - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Slick Slider - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-25 17:50:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.6\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Slick Slider - Stable (latest release)\n"
+
+#. translators: Replacement string ("Use %3$s instead."), see
+#. https://developer.wordpress.org/reference/functions/_deprecated_function
+#: inc/class-output.php:191
+msgid "the new option “Show caption”"
+msgstr "новый вариант «Показать подпись»"
+
+#: inc/class-options.php:776
+msgid "Set the zIndex values for slides, useful for IE9 and lower."
+msgstr "Задайте значения z-Index для слайдов, для IE9 и ниже."
+
+#: inc/class-options.php:775
+msgid "zIndex"
+msgstr "z-Index"
+
+#: inc/class-options.php:768
+msgid "Ignores requests to advance the slide while animating."
+msgstr "Игнорировать запросы на движение слайда во время анимации."
+
+#: inc/class-options.php:767
+msgid "waitForAnimate"
+msgstr "Ждать анимацию"
+
+#: inc/class-options.php:588
+msgid "Pause Autoplay On Focus."
+msgstr "Пауза авто проигрывания при фокусе мыши на слайде."
+
+#: inc/class-options.php:587
+msgid "pauseOnFocus"
+msgstr "Пауза авто проигрывания при фокусе"
+
+#: inc/class-options.php:516
+msgid "Puts focus on slide after change."
+msgstr "Помещает фокус на слайд после изменения."
+
+#: inc/class-options.php:515
+msgid "focusOnChange"
+msgstr "Фокус на слайд"
+
+#: inc/class-options.php:492
+msgid "Class for slide indicator dots container."
+msgstr "Класс для контейнеров с точками слайдов."
+
+#: inc/class-options.php:491
+msgid "dotsClass"
+msgstr "Класс точек"
+
+#: inc/class-options.php:425
+msgid "Change where the navigation dots are attached (Selector, htmlString, Array, Element, jQuery object)"
+msgstr "Изменить место привязки точек навигации (Selector, htmlString, Array, Element, jQuery object)"
+
+#: inc/class-options.php:424
+msgid "appendDots"
+msgstr "appendDots"
+
+#: inc/class-options.php:361
+msgid "Show caption below slide image."
+msgstr "Показать подпись под слайд-изображением."
+
+#: inc/class-options.php:360
+msgid "Show caption"
+msgstr "Показать подпись"
+
+#. Author of the plugin
+msgid "Philipp Bammes"
+msgstr "Филипп Бамс"
+
+#. Description of the plugin
+msgid "Turn your native WordPress galleries into beautiful sliders. Powered by the awesome “slick” slider."
+msgstr "Превратите свои родные галереи WordPress в красивые слайдеры. Работает на потрясающем «слайком» слайдере."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/slick-slider/"
+msgstr "https://wordpress.org/plugins/slick-slider/"
+
+#: inc/class-template.php:55
+msgid "Use Slick Slider"
+msgstr "Использовать слайдер Slick"
+
+#: inc/class-options.php:760
+msgid "Change the slider's direction to become right-to-left."
+msgstr "Измените направление ползунка, чтобы он стал справа налево."
+
+#: inc/class-options.php:759
+msgid "rtl"
+msgstr "rtl"
+
+#: inc/class-options.php:752
+msgid "Vertical swipe mode."
+msgstr "Вертикальный режим салфетки."
+
+#: inc/class-options.php:751
+msgid "verticalSwiping"
+msgstr "verticalSwiping"
+
+#: inc/class-options.php:744
+msgid "Vertical slide mode."
+msgstr "Режим вертикального слайда."
+
+#: inc/class-options.php:743
+msgid "vertical"
+msgstr "Вертикально 4"
+
+#: inc/class-options.php:736
+msgid "Variable width slides."
+msgstr "Переменные слайды."
+
+#: inc/class-options.php:735
+msgid "variableWidth"
+msgstr "variableWidth"
+
+#: inc/class-options.php:728
+msgid "Enable/Disable CSS Transforms."
+msgstr "Включить / отключить CSS-преобразования."
+
+#: inc/class-options.php:727
+msgid "useTransform"
+msgstr "useTransform"
+
+#: inc/class-options.php:720
+msgid "Enable/Disable CSS Transitions."
+msgstr "Включить / отключить переходы CSS."
+
+#: inc/class-options.php:719
+msgid "useCSS"
+msgstr "useCSS"
+
+#: inc/class-options.php:712
+msgid "To advance slides, the user must swipe a length of (1/touchThreshold) * the width of the slider."
+msgstr "Чтобы продвигать слайды, пользователь должен проделать длину (1 / touchThreshold) * ширины слайдера."
+
+#: inc/class-options.php:711
+msgid "touchThreshold"
+msgstr "touchThreshold"
+
+#: inc/class-options.php:704
+msgid "Enable slide motion with touch."
+msgstr "Включите движение слайда с прикосновением."
+
+#: inc/class-options.php:703
+msgid "touchMove"
+msgstr "TouchMove"
+
+#: inc/class-options.php:696
+msgid "Allow users to drag or swipe directly to a slide irrespective of slidesToScroll."
+msgstr "Разрешить пользователям перетаскивать или прокручивать непосредственно на слайд независимо от слайдовToScroll."
+
+#: inc/class-options.php:695
+msgid "swipeToSlide"
+msgstr "swipeToSlide"
+
+#: inc/class-options.php:688
+msgid "Enable swiping."
+msgstr "Включить прокрутку."
+
+#: inc/class-options.php:687
+msgid "swipe"
+msgstr "проведите пальцем"
+
+#: inc/class-options.php:680
+msgid "Slide/Fade animation speed."
+msgstr "Скорость слайда / выцветания."
+
+#: inc/class-options.php:679
+msgid "speed"
+msgstr "bystro"
+
+#: inc/class-options.php:672
+msgid "# of slides to scroll."
+msgstr "# слайдов для прокрутки."
+
+#: inc/class-options.php:671
+msgid "slidesToScroll"
+msgstr "slidesToScroll"
+
+#: inc/class-options.php:664
+msgid "# of slides to show."
+msgstr "# слайдов для показа."
+
+#: inc/class-options.php:663
+msgid "slidesToShow"
+msgstr "slidesToShow"
+
+#: inc/class-options.php:656
+msgid "With grid mode intialized via the rows option, this sets how many slides are in each grid row."
+msgstr "С помощью режима сетки, инициализированного с помощью параметра rows, устанавливается количество слайдов в каждой строке сетки."
+
+#: inc/class-options.php:655
+msgid "slidesPerRow"
+msgstr "slidesPerRow"
+
+#: inc/class-options.php:648
+msgid "Element query to use as slide."
+msgstr "Запрос элемента для использования в качестве слайда."
+
+#: inc/class-options.php:647
+msgid "slide"
+msgstr "слайд"
+
+#: inc/class-options.php:640
+msgid "Setting this to more than 1 initializes grid mode. Use slidesPerRow to set how many slides should be in each row."
+msgstr "Установка этого параметра более 1 инициализирует режим сетки. Используйте slidesPerRow для определения количества слайдов в каждой строке."
+
+#: inc/class-options.php:639
+msgid "rows"
+msgstr "ряды"
+
+#: inc/class-options.php:612
+msgid "Width that responsive object responds to. Can be 'window', 'slider' or 'min' (the smaller of the two)."
+msgstr "Ответ на этот ответ отвечает. Может быть «окно», «ползунок» или «мин» (меньший из двух)."
+
+#: inc/class-options.php:611
+msgid "respondTo"
+msgstr "respondTo"
+
+#: inc/class-options.php:604
+msgid "Pause Autoplay when a dot is hovered."
+msgstr "Приостановить автовоспроизведение, когда точка зависнет."
+
+#: inc/class-options.php:603
+msgid "pauseOnDotsHover"
+msgstr "pauseOnDotsHover"
+
+#: inc/class-options.php:596
+msgid "Pause Autoplay On Hover."
+msgstr "Приостановить автовоспроизведение."
+
+#: inc/class-options.php:595
+msgid "pauseOnHover"
+msgstr "Наведите курсор, чтобы приостановить"
+
+#: inc/class-options.php:567
+msgid "Set lazy loading technique. Accepts 'ondemand' or 'progressive'."
+msgstr "Установите ленивую технику загрузки. Принимает «ondemand» или «progressive»."
+
+#: inc/class-options.php:566
+msgid "lazyLoad"
+msgstr "LazyLoad"
+
+#: inc/class-options.php:559
+msgid "Slide to start on."
+msgstr "Слайд начнется."
+
+#: inc/class-options.php:558
+msgid "initialSlide"
+msgstr "initialSlide"
+
+#: inc/class-options.php:551
+msgid "Infinite loop sliding."
+msgstr "Бесконечная петля скольжения."
+
+#: inc/class-options.php:550
+msgid "infinite"
+msgstr "Бесконечно"
+
+#: inc/class-options.php:543
+msgid "Resistance when swiping edges of non-infinite carousels."
+msgstr "Сопротивление при прохождении краев бесконечных каруселей."
+
+#: inc/class-options.php:542
+msgid "edgeFriction"
+msgstr "edgeFriction"
+
+#: inc/class-options.php:532
+msgid "Add easing for jQuery animate. Use with easing libraries or default easing methods."
+msgstr "Добавьте облегчение для анимации jQuery. Используйте с ослаблением библиотек или методов ослабления по умолчанию."
+
+#: inc/class-options.php:531
+msgid "easing"
+msgstr "ослабление"
+
+#: inc/class-options.php:524
+msgid "Enable focus on selected element (click)."
+msgstr "Включить фокус на выбранном элементе (щелкните)."
+
+#: inc/class-options.php:523
+msgid "focusOnSelect"
+msgstr "focusOnSelect"
+
+#: inc/class-options.php:508
+msgid "Enable fade."
+msgstr "Включить fade."
+
+#: inc/class-options.php:507
+msgid "fade"
+msgstr "fade"
+
+#: inc/class-options.php:500
+msgid "Enable mouse dragging."
+msgstr "Включить перетаскивание мышью."
+
+#: inc/class-options.php:499
+msgid "draggable"
+msgstr "перетаскиваемый"
+
+#: inc/class-options.php:484
+msgid "Show dot indicators."
+msgstr "Показывать индикаторы точки."
+
+#: inc/class-options.php:483
+msgid "dots"
+msgstr "(4) точечное"
+
+#: inc/class-options.php:476
+msgid "Custom paging templates. See source for use example."
+msgstr "Пользовательские шаблоны подкачки. См. Пример источника для использования."
+
+#: inc/class-options.php:475
+msgid "customPaging"
+msgstr "customPaging"
+
+#: inc/class-options.php:465
+msgid "CSS3 Animation Easing."
+msgstr "Ускорение анимации CSS3."
+
+#: inc/class-options.php:464
+msgid "cssEase"
+msgstr "cssEase"
+
+#: inc/class-options.php:457
+msgid "Side padding when in center mode (px or %)."
+msgstr "Боковое наложение в центре (px или%)."
+
+#: inc/class-options.php:456
+msgid "centerPadding"
+msgstr "centerPadding"
+
+#: inc/class-options.php:449
+msgid "Enables centered view with partial prev/next slides. Use with odd numbered slidesToShow counts."
+msgstr "Позволяет центрированный просмотр с частичным представлением / рядом слайдов. Использование с нечетными номерами slidesToShow считается."
+
+#: inc/class-options.php:448
+msgid "centerMode"
+msgstr "centerMode"
+
+#: inc/class-options.php:441
+msgid "Allows you to select a node or customize the HTML for the \"Next\" arrow."
+msgstr "Позволяет выбрать узел или настроить HTML для стрелки «Далее»."
+
+#: inc/class-options.php:440
+msgid "nextArrow"
+msgstr "nextArrow"
+
+#: inc/class-options.php:433
+msgid "Allows you to select a node or customize the HTML for the \"Previous\" arrow."
+msgstr "Позволяет выбрать узел или настроить HTML для стрелки «Предыдущая»."
+
+#: inc/class-options.php:432
+msgid "prevArrow"
+msgstr "prevArrow"
+
+#: inc/class-options.php:417
+msgid "Change where the navigation arrows are attached (Selector, htmlString, Array, Element, jQuery object)."
+msgstr "Измените, где привязаны навигационные стрелки (Selector, htmlString, Array, Element, jQuery object)."
+
+#: inc/class-options.php:416
+msgid "appendArrows"
+msgstr "appendArrows"
+
+#: inc/class-options.php:409
+msgid "Set the slider to be the navigation of other slider (Class or ID Name)."
+msgstr "Установите ползунок как навигацию другого слайдера (Class или ID Name)."
+
+#: inc/class-options.php:408
+msgid "asNavFor"
+msgstr "asNavFor"
+
+#: inc/class-options.php:401
+msgid "Prev/Next Arrows."
+msgstr "Пред. / След. Стрелки."
+
+#: inc/class-options.php:400
+msgid "arrows"
+msgstr "Стрелы"
+
+#: inc/class-options.php:393
+msgid "Autoplay Speed in milliseconds."
+msgstr "Скорость автовоспроизведения в миллисекундах."
+
+#: inc/class-options.php:392
+msgid "autoplaySpeed"
+msgstr "autoplaySpeed"
+
+#: inc/class-options.php:385
+msgid "Enables Autoplay."
+msgstr "Включает автовоспроизведение."
+
+#: inc/class-options.php:384
+msgid "autoplay"
+msgstr "Авто-проигрывание"
+
+#: inc/class-options.php:377
+msgid "Enables adaptive height for single slide horizontal carousels."
+msgstr "Позволяет адаптировать высоту для горизонтальных каруселей с горизонтальным скольжением."
+
+#: inc/class-options.php:376
+msgid "adaptiveHeight"
+msgstr "adaptiveHeight"
+
+#: inc/class-options.php:369
+msgid "Enables tabbing and arrow key navigation."
+msgstr "Включает табуляцию и навигацию по клавишам со стрелкой."
+
+#: inc/class-options.php:368
+msgid "accessibility"
+msgstr "Доступность для людей с ограниченными возможностями"
+
+#: inc/class-options.php:353
+msgid "Show Slick Slider options on single gallery modal."
+msgstr "Показать параметры Slick Slider на одной галерее modal"
+
+#: inc/class-options.php:352
+msgid "Show options on gallery modal"
+msgstr "Показать параметры в галерее modal"
+
+#: inc/class-options.php:245
+msgid "Add breakpoint"
+msgstr "Добавить точку останова"
+
+#: inc/class-main.php:178
+msgid "Rate"
+msgstr "Рейтинг"
+
+#: inc/class-main.php:173
+msgid "Donate"
+msgstr "Пожетвовать"
+
+#: inc/class-main.php:146
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/class-gui.php:143
+msgid "Expand settings"
+msgstr "Развернуть настройки"
+
+#: inc/class-gui.php:142
+msgid "Collapse settings"
+msgstr "Настройки свернуть"
+
+#: inc/class-gui.php:139
+msgid "Reset Slick Slider settings"
+msgstr "Сброс настроек Slick Slider"
+
+#: inc/class-gui.php:122
+msgid "For more information about the slider visit %s."
+msgstr "Дополнительные сведения о посещении слайдера см. В разделе %s ."
+
+#. Plugin Name of the plugin
+#: inc/class-gui.php:118 inc/class-template.php:52
+msgid "Slick Slider"
+msgstr "Slick слайдер 2"
+
+#: inc/class-gui.php:60
+msgid "Slick Slider settings"
+msgstr "Настройки Slick Slider"
+
+#: inc/class-feedback.php:24
+msgid "Slick Slider requires at least PHP"
+msgstr "Slick Slider требует как минимум PHP"
+
+#: inc/class-feedback.php:22
+msgid "Slick Slider requires at least WordPress"
+msgstr "Slick Slider требует как минимум WordPress"
+
+#: inc/class-feedback.php:22 inc/class-feedback.php:24
+msgid "Attention"
+msgstr "Внимание"

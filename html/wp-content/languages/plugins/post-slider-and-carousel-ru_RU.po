@@ -1,0 +1,1048 @@
+# Translation of Plugins - Post Slider and Post Carousel with Post Vertical Scrolling Widget &#8211; A Responsive Post Slider - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Post Slider and Post Carousel with Post Vertical Scrolling Widget &#8211; A Responsive Post Slider - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-25 08:02:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Post Slider and Post Carousel with Post Vertical Scrolling Widget &#8211; A Responsive Post Slider - Development (trunk)\n"
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:157
+msgid "Show Short Content"
+msgstr "Показать короткое содержание"
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:121
+#: includes/widgets/class-psac-post-scrolling-widget.php:130
+#: includes/widgets/class-psac-post-scrolling-widget.php:140
+#: includes/widgets/class-psac-post-scrolling-widget.php:150
+#: includes/widgets/class-psac-post-scrolling-widget.php:160
+msgid "No"
+msgstr "Нет"
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:120
+#: includes/widgets/class-psac-post-scrolling-widget.php:129
+#: includes/widgets/class-psac-post-scrolling-widget.php:139
+#: includes/widgets/class-psac-post-scrolling-widget.php:149
+#: includes/widgets/class-psac-post-scrolling-widget.php:159
+msgid "Yes"
+msgstr "Да"
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:118
+msgid "Show Date"
+msgstr "Показать дату"
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:109
+msgid "Note: Preview will be displayed according to responsive layout mode."
+msgstr "Примечание. Предварительный просмотр будет отображаться в соответствии с режимом адаптивного макета."
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:108
+msgid "* Kindly copy the above shortcode and paste it inside any page or post or inside any section."
+msgstr "* Скопируйте приведенный выше шорткод и вставьте его на любую страницу или в запись, или в любой раздел."
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:102
+msgid "Regenerate Shortcode"
+msgstr "Восстановить шорткод"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:866
+msgid "Enable slider center mode."
+msgstr "Включить режим \"Центр\" слайдера."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:859
+msgid "Slider Center Mode"
+msgstr "Режим \"Центр\" слайдера"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:652
+msgid "Enter number of slides to scroll at a time."
+msgstr "Введите число одновременно прокручиваемых слайдов."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:649
+msgid "Slides to Scroll"
+msgstr "Слайды для прокрутки"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:645
+msgid "Enter number of slides to show."
+msgstr "Введите количество отображаемых слайдов."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:642
+msgid "Slides Column"
+msgstr "Столбец слайдов"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:507
+#: includes/admin/shortcode-support/shortcode-fields.php:1042
+msgid "e.g if you pass 5 then it will skip first five post. Note: Do not use limit=-1 and pagination=true with this."
+msgstr "например, если вы поставите 5, то первые пять записей будут пропущены. Примечание. Не используйте лимит=-1 и нумерация=да с этим."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:507
+#: includes/admin/shortcode-support/shortcode-fields.php:1042
+msgid "Exclude number of posts from starting."
+msgstr "Исключить количество записей от начала."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:500
+#: includes/admin/shortcode-support/shortcode-fields.php:1035
+msgid "You can pass multiple ids with comma seperated. You can find id at relevant users listing page."
+msgstr "Вы можете передать несколько ID через запятую. Вы можете найти ID на соответствующей странице списка пользователей."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:500
+#: includes/admin/shortcode-support/shortcode-fields.php:1035
+msgid "Enter author id to hide post of particular author. Works only if `Include Author` field is empty."
+msgstr "Введите ID автора, чтобы скрыть запись конкретного автора. Работает, только если поле \"Включить автора\" не заполнено."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:497
+#: includes/admin/shortcode-support/shortcode-fields.php:1032
+msgid "Exclude author"
+msgstr "Исключить автора"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:493
+#: includes/admin/shortcode-support/shortcode-fields.php:1028
+msgid "You can pass multiple ids with comma seperated. You can find id at users listing page."
+msgstr "Вы можете передать несколько ID через запятую. Вы можете найти ID на странице списка пользователей."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:493
+#: includes/admin/shortcode-support/shortcode-fields.php:1028
+msgid "Enter author id to display posts of particular author."
+msgstr "Введите ID автора, чтобы отобразить записи определённого автора."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:490
+#: includes/admin/shortcode-support/shortcode-fields.php:1025
+msgid "Include author"
+msgstr "Включить автора"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:486
+#: includes/admin/shortcode-support/shortcode-fields.php:1021
+msgid "Enter id of the post which you do not want to display."
+msgstr "Введите ID записи, которую вы не хотите отображать."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:483
+#: includes/admin/shortcode-support/shortcode-fields.php:1018
+msgid "Exclude Post"
+msgstr "Исключить запись"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:479
+#: includes/admin/shortcode-support/shortcode-fields.php:486
+#: includes/admin/shortcode-support/shortcode-fields.php:1014
+#: includes/admin/shortcode-support/shortcode-fields.php:1021
+msgid "You can pass multiple ids with comma seperated. You can find id at relevant post listing page."
+msgstr "Вы можете указать несколько ID через запятую. Вы можете найти ID на соответствующей странице списка записей."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:479
+#: includes/admin/shortcode-support/shortcode-fields.php:1014
+msgid "Enter id of the post which you want to display."
+msgstr "Введите ID записи, которую вы хотите отобразить."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:476
+#: includes/admin/shortcode-support/shortcode-fields.php:1011
+msgid "Display Specific Post"
+msgstr "Отобразить конкретную запись"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:472
+#: includes/admin/shortcode-support/shortcode-fields.php:1007
+msgid "Exclude post category. Works only if `Category` field is empty."
+msgstr "Исключить категорию записи. Работает, только если поле \"Рубрика\" не заполнено."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:469
+#: includes/admin/shortcode-support/shortcode-fields.php:1004
+msgid "Exclude Category"
+msgstr "Исключить рубрику"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:465
+#: includes/admin/shortcode-support/shortcode-fields.php:1000
+msgid "If you are using parent category then whether to display child category or not."
+msgstr "Если вы используете родительскую рубрику, то отображать ли дочернюю рубрику или нет."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:459
+#: includes/admin/shortcode-support/shortcode-fields.php:994
+msgid "Display Child Category"
+msgstr "Отобразить дочернюю рубрику"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:454
+#: includes/admin/shortcode-support/shortcode-fields.php:989
+msgid "Note: Slicky post only be displayed at front side. In preview mode sticky post will not be displayed."
+msgstr "Примечание. Прилепленные записи будут отображаться только на лицевой стороне. В режиме предварительного просмотра прилепленные записи не будут отображаться."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:454
+#: includes/admin/shortcode-support/shortcode-fields.php:989
+msgid "Display sticky posts."
+msgstr "Отобразить прилепленные записи."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:447
+#: includes/admin/shortcode-support/shortcode-fields.php:982
+msgid "Show Sticky Posts"
+msgstr "Показать прилепленные записи"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:443
+#: includes/admin/shortcode-support/shortcode-fields.php:978
+msgid "Note: Be sure you have added valid post type name and post type is enabled from plugin setting."
+msgstr "Примечание. Убедитесь, что вы добавили правильное имя типа записи и тип записи включен в настройках плагина."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:443
+#: includes/admin/shortcode-support/shortcode-fields.php:978
+msgid "Select display type of post. Is it Featured or Trending?"
+msgstr "Выберите тип отображения записи. Это рекомендуемое или популярное?"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:441
+#: includes/admin/shortcode-support/shortcode-fields.php:976
+msgid "Trending"
+msgstr "Популярное"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:440
+#: includes/admin/shortcode-support/shortcode-fields.php:975
+msgid "Featured"
+msgstr "Рекомендуемое"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:439
+#: includes/admin/shortcode-support/shortcode-fields.php:974
+msgid "Select Type"
+msgstr "Выберите тип"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:436
+#: includes/admin/shortcode-support/shortcode-fields.php:971
+msgid "Display Type"
+msgstr "Тип отображения"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:432
+#: includes/admin/shortcode-support/shortcode-fields.php:967
+msgid ""
+"Note: Be sure you have added valid tag taxonomy name otherwise no result will be displayed. \n"
+"\n"
+"Leave it empty for default."
+msgstr ""
+"Примечание. Убедитесь, что вы добавили допустимое имя метки таксономии, иначе результат не будет отображаться.\n"
+"\n"
+"По умолчанию - оставьте это пустым."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:432
+#: includes/admin/shortcode-support/shortcode-fields.php:967
+msgid "Enter registered tag taxonomy name. You can find it on plugin setting page. This is just to display post tags."
+msgstr "Введите зарегистрированное имя метки таксономии. Вы можете найти его на странице настроек плагина. Это просто для отображения меток записей."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:428
+#: includes/admin/shortcode-support/shortcode-fields.php:963
+msgid "Tag Taxonomy"
+msgstr "Метка таксономии"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:424
+#: includes/admin/shortcode-support/shortcode-fields.php:959
+msgid "Note: Be sure you have added valid taxonomy name otherwise no result will be displayed."
+msgstr "Примечание. Убедитесь, что вы добавили правильное название таксономии, иначе результат не будет отображаться."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:424
+#: includes/admin/shortcode-support/shortcode-fields.php:959
+msgid "Enter registered taxonomy name. You can find it on plugin setting page."
+msgstr "Введите зарегистрированное название таксономии. Вы можете найти его на странице настроек плагина."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:420
+#: includes/admin/shortcode-support/shortcode-fields.php:955
+msgid "Taxonomy"
+msgstr "Таксономия"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:416
+#: includes/admin/shortcode-support/shortcode-fields.php:951
+msgid "Note: Be sure you have added valid post type name otherwise no result will be displayed."
+msgstr "Примечание. Убедитесь, что вы добавили правильное имя типа записи, иначе результат не будет отображаться."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:416
+#: includes/admin/shortcode-support/shortcode-fields.php:951
+msgid "Enter registered post type name. You can find it on plugin setting page."
+msgstr "Введите имя зарегистрированного типа записи. Вы можете найти его на странице настроек плагина."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:412
+#: includes/admin/shortcode-support/shortcode-fields.php:947
+msgid "Post type"
+msgstr "Тип записи"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:408
+#: includes/admin/shortcode-support/shortcode-fields.php:943
+msgid "Enable slider lazyload behaviour."
+msgstr "Включить режим \"Отложенная загрузка\" слайдера."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:401
+#: includes/admin/shortcode-support/shortcode-fields.php:936
+msgid "Lazyload"
+msgstr "Отложенная загрузка"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:397
+#: includes/admin/shortcode-support/shortcode-fields.php:932
+msgid "Enable url hash listner of slider."
+msgstr "Включить URL-хэш слушателя слайдера."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:390
+#: includes/admin/shortcode-support/shortcode-fields.php:925
+msgid "URL Hash Listner"
+msgstr "URL-хэш слушателя"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:382
+#: includes/admin/shortcode-support/shortcode-fields.php:917
+msgid "Note: Number of thumbnails will adjust according to responsive layout mode."
+msgstr "Примечание. Количество миниатюр будет изменено в соответствии с режимом адаптивного макета."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:382
+#: includes/admin/shortcode-support/shortcode-fields.php:917
+msgid "Enter number of thumbnails. The ideal value should be 7."
+msgstr "Введите количество миниатюр. Идеальное значение должно быть 7."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:378
+#: includes/admin/shortcode-support/shortcode-fields.php:913
+msgid "Number of Thumbnails"
+msgstr "Число миниатюр"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:374
+#: includes/admin/shortcode-support/shortcode-fields.php:909
+msgid "Display slider thumbnail."
+msgstr "Отобразить миниатюру слайдера."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:367
+#: includes/admin/shortcode-support/shortcode-fields.php:902
+msgid "Show Thumbnail"
+msgstr "Показать миниатюру"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:363
+#: includes/admin/shortcode-support/shortcode-fields.php:898
+msgid "Enter slider stage padding. A partial slide will be visible at both the end."
+msgstr "Введите стадию для поля слайдера. Частичный слайд будет виден с обоих концов."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:360
+#: includes/admin/shortcode-support/shortcode-fields.php:895
+msgid "Slider Stage Padding"
+msgstr "Поле для стадии слайда"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:356
+#: includes/admin/shortcode-support/shortcode-fields.php:891
+msgid "Slide margin."
+msgstr "Отступ слайда."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:353
+#: includes/admin/shortcode-support/shortcode-fields.php:888
+msgid "Slide Margin"
+msgstr "Отступ слайда"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:349
+#: includes/admin/shortcode-support/shortcode-fields.php:884
+msgid "Enter slide number to start from that."
+msgstr "Введите номер слайда, чтобы начать с него."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:346
+#: includes/admin/shortcode-support/shortcode-fields.php:881
+msgid "Slider Start Position"
+msgstr "Начальная позиция слайдера"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:342
+#: includes/admin/shortcode-support/shortcode-fields.php:855
+#: includes/admin/shortcode-support/shortcode-fields.php:877
+msgid "Enable slider auto height."
+msgstr "Включить автоподбор высоты слайдера."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:335
+#: includes/admin/shortcode-support/shortcode-fields.php:848
+#: includes/admin/shortcode-support/shortcode-fields.php:870
+msgid "Slider Auto Height"
+msgstr "Автоподбор высоты слайдера"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:327
+#: includes/admin/shortcode-support/shortcode-fields.php:840
+msgid "Autoplay pause on hover."
+msgstr "Останов автовоспроизведения при наведении."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:321
+#: includes/admin/shortcode-support/shortcode-fields.php:834
+msgid "Autoplay Pause on Hover"
+msgstr "Останов воспроизведения при наведении"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:313
+#: includes/admin/shortcode-support/shortcode-fields.php:826
+msgid "Slider next button text."
+msgstr "Текст кнопки \"Далее\" слайдера."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:310
+#: includes/admin/shortcode-support/shortcode-fields.php:823
+msgid "Next Button Text"
+msgstr "Текст кнопки \"Далее\""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:302
+#: includes/admin/shortcode-support/shortcode-fields.php:815
+msgid "Slider previous button text."
+msgstr "Текст кнопки \"Назад\" слайдера."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:299
+#: includes/admin/shortcode-support/shortcode-fields.php:812
+msgid "Previous Button Text"
+msgstr "Текст кнопки \"Назад\""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:295
+#: includes/admin/shortcode-support/shortcode-fields.php:808
+msgid "Note: Extra class added as parent so using extra class you customize your design."
+msgstr "Примечание. Дополнительный класс добавлен как родительский, поэтому, используя дополнительный класс, вы изменяете свой дизайн."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:295
+#: includes/admin/shortcode-support/shortcode-fields.php:808
+msgid "Enter an extra CSS class for design customization."
+msgstr "Введите дополнительный класс CSS для настройки дизайна."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:292
+#: includes/admin/shortcode-support/shortcode-fields.php:805
+msgid "CSS Class"
+msgstr "Класс CSS"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:288
+#: includes/admin/shortcode-support/shortcode-fields.php:801
+msgid "Choose your created style from style manager."
+msgstr "Выберите свой стиль в менеджере стилей."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:285
+#: includes/admin/shortcode-support/shortcode-fields.php:798
+msgid "Style Manager"
+msgstr "Менеджер стилей"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:281
+#: includes/admin/shortcode-support/shortcode-fields.php:794
+msgid "Note: Social sharing must be enabled from plugin settings and must not be disabled from individual post."
+msgstr "Примечание. Социальный обмен должен быть включен в настройках плагина и не должен быть отключен в отдельной записи."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:281
+#: includes/admin/shortcode-support/shortcode-fields.php:794
+msgid "Enable social sharing."
+msgstr "Включить социальный обмен."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:280
+#: includes/admin/shortcode-support/shortcode-fields.php:287
+#: includes/admin/shortcode-support/shortcode-fields.php:793
+#: includes/admin/shortcode-support/shortcode-fields.php:800
+msgid "Upgrade to pro"
+msgstr "Обновиться до pro"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:278
+#: includes/admin/shortcode-support/shortcode-fields.php:791
+msgid "Social Sharing"
+msgstr "Социальный обмен"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:274
+#: includes/admin/shortcode-support/shortcode-fields.php:787
+msgid "Choose post link behaviour."
+msgstr "Выберите поведение ссылки записи."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:272
+#: includes/admin/shortcode-support/shortcode-fields.php:785
+msgid "New Tab"
+msgstr "Новая вкладка"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:271
+#: includes/admin/shortcode-support/shortcode-fields.php:784
+msgid "Same Tab"
+msgstr "Текущая вкладка"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:268
+#: includes/admin/shortcode-support/shortcode-fields.php:781
+msgid "Post Link Target"
+msgstr "Целевая ссылка записи"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:260
+#: includes/admin/shortcode-support/shortcode-fields.php:773
+msgid "Enter read more text."
+msgstr "Настроить \"Читать далее\""
+
+#: includes/admin/shortcode-support/shortcode-fields.php:257
+#: includes/admin/shortcode-support/shortcode-fields.php:770
+msgid "Read More Text"
+msgstr "Читать далее"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:253
+#: includes/admin/shortcode-support/shortcode-fields.php:766
+msgid "Premium Parameters"
+msgstr "Премиальные параметры"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:245
+#: includes/admin/shortcode-support/shortcode-fields.php:472
+#: includes/admin/shortcode-support/shortcode-fields.php:758
+#: includes/admin/shortcode-support/shortcode-fields.php:1007
+msgid "You can pass multiple ids with comma seperated. You can find id at relevant category listing page."
+msgstr "Вы можете передать несколько ID через запятую. Вы можете найти ID на соответствующей странице списка рубрик."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:245
+#: includes/admin/shortcode-support/shortcode-fields.php:758
+msgid "Enter category id to display categories wise."
+msgstr "Введите ID рубрики для отображения рубрик."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:242
+#: includes/admin/shortcode-support/shortcode-fields.php:755
+msgid "Display Specific Category"
+msgstr "Отобразить определенную рубрику"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:238
+#: includes/admin/shortcode-support/shortcode-fields.php:751
+msgid "Select sorting order."
+msgstr "Выбрать порядок сортировки."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:236
+#: includes/admin/shortcode-support/shortcode-fields.php:749
+msgid "Ascending"
+msgstr "По возрастанию"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:235
+#: includes/admin/shortcode-support/shortcode-fields.php:748
+msgid "Descending"
+msgstr "По убыванию"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:232
+#: includes/admin/shortcode-support/shortcode-fields.php:745
+msgid "Post Order"
+msgstr "Сортировка записей"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:228
+#: includes/admin/shortcode-support/shortcode-fields.php:741
+msgid "Select order type."
+msgstr "Выбрать тип сортировки."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:226
+#: includes/admin/shortcode-support/shortcode-fields.php:739
+msgid "Menu Order"
+msgstr "Порядок меню"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:225
+#: includes/admin/shortcode-support/shortcode-fields.php:738
+msgid "Random"
+msgstr "Случайно"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:224
+#: includes/admin/shortcode-support/shortcode-fields.php:737
+msgid "Post Modified Date"
+msgstr "Дата изменения записи"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:223
+#: includes/admin/shortcode-support/shortcode-fields.php:736
+msgid "Post Title"
+msgstr "Заголовок записи"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:222
+#: includes/admin/shortcode-support/shortcode-fields.php:735
+msgid "Post Author"
+msgstr "Автор записи"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:221
+#: includes/admin/shortcode-support/shortcode-fields.php:734
+msgid "Post ID"
+msgstr "ID записи"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:220
+#: includes/admin/shortcode-support/shortcode-fields.php:733
+msgid "Post Date"
+msgstr "Дата записи"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:217
+#: includes/admin/shortcode-support/shortcode-fields.php:730
+msgid "Post Order By"
+msgstr "Сортировка записей по"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:213
+#: includes/admin/shortcode-support/shortcode-fields.php:726
+msgid "Enter total number of post to be displayed. Enter -1 to display all."
+msgstr "Введите общее количество записей для отображения. Введите -1, чтобы отобразить все."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:208
+#: includes/admin/shortcode-support/shortcode-fields.php:721
+msgid "Total Number of Post"
+msgstr "Общее количество записей"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:204
+#: includes/admin/shortcode-support/shortcode-fields.php:717
+msgid "Query Parameters"
+msgstr "Параметры запроса"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:197
+#: includes/admin/shortcode-support/shortcode-fields.php:710
+msgid "Enter slider speed."
+msgstr "Установить скорость слайдера."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:186
+#: includes/admin/shortcode-support/shortcode-fields.php:699
+msgid "Enter autoplay interval."
+msgstr "Установить интервал автозапуска."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:183
+#: includes/admin/shortcode-support/shortcode-fields.php:696
+msgid "Autoplay Interval"
+msgstr "Интервал автозапуска"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:179
+#: includes/admin/shortcode-support/shortcode-fields.php:692
+msgid "Enable slider autoplay."
+msgstr "Включить автозапуск слайдера."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:173
+#: includes/admin/shortcode-support/shortcode-fields.php:686
+msgid "Autoplay"
+msgstr "Автозапуск"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:169
+#: includes/admin/shortcode-support/shortcode-fields.php:682
+msgid "Show pagination dots."
+msgstr "Показать точки для нумерации."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:163
+#: includes/admin/shortcode-support/shortcode-fields.php:676
+msgid "Show Dots"
+msgstr "Показать точки"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:158
+#: includes/admin/shortcode-support/shortcode-fields.php:672
+msgid "Show prev - next arrows."
+msgstr "Показывать стрелки для назад - далее."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:152
+#: includes/admin/shortcode-support/shortcode-fields.php:666
+msgid "Show Arrows"
+msgstr "Показать стрелки"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:148
+#: includes/admin/shortcode-support/shortcode-fields.php:662
+msgid "Enable slider loop."
+msgstr "Включить цикл слайдера."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:142
+#: includes/admin/shortcode-support/shortcode-fields.php:656
+msgid "Loop"
+msgstr "Цикл"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:138
+#: includes/admin/shortcode-support/shortcode-fields.php:638
+msgid "Slider Parameters"
+msgstr "Параметры слайдера"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:131
+#: includes/admin/shortcode-support/shortcode-fields.php:631
+msgid "Enter slider height."
+msgstr "Введите высоту слайдера."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:128
+#: includes/admin/shortcode-support/shortcode-fields.php:628
+msgid "Slider Height"
+msgstr "Высота слайдера"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:124
+#: includes/admin/shortcode-support/shortcode-fields.php:624
+msgid "Choose WordPress registered image size. e.g"
+msgstr "Выберите зарегистрированный размер изображения WordPress. например"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:120
+#: includes/admin/shortcode-support/shortcode-fields.php:620
+msgid "Image Size"
+msgstr "Размер изображения"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:112
+#: includes/admin/shortcode-support/shortcode-fields.php:612
+msgid "Show read more."
+msgstr "Показать подробнее."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:106
+#: includes/admin/shortcode-support/shortcode-fields.php:606
+msgid "Show Read More"
+msgstr "Показать подробнее"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:98
+#: includes/admin/shortcode-support/shortcode-fields.php:598
+msgid "Enter content word limit."
+msgstr "Установить ограничение содержания по словам."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:95
+#: includes/admin/shortcode-support/shortcode-fields.php:595
+msgid "Content Word Limit"
+msgstr "Ограничение содержания по словам"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:91
+#: includes/admin/shortcode-support/shortcode-fields.php:591
+msgid "Display post content."
+msgstr "Отобразить содержание записи."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:84
+#: includes/admin/shortcode-support/shortcode-fields.php:585
+msgid "Show Content"
+msgstr "Показать содержание"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:80
+#: includes/admin/shortcode-support/shortcode-fields.php:581
+msgid "Display post category."
+msgstr "Отобразить рубрику записи."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:74
+#: includes/admin/shortcode-support/shortcode-fields.php:575
+#: includes/widgets/class-psac-post-scrolling-widget.php:127
+msgid "Show Category"
+msgstr "Показать рубрику"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:70
+#: includes/admin/shortcode-support/shortcode-fields.php:571
+msgid "Display post comment count."
+msgstr "Отобразить кол-во комментариев к записи."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:64
+#: includes/admin/shortcode-support/shortcode-fields.php:565
+msgid "Show Comments"
+msgstr "Показать комментарии"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:60
+#: includes/admin/shortcode-support/shortcode-fields.php:561
+msgid "Display post tags."
+msgstr "Отобразить метки записи."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:53
+#: includes/admin/shortcode-support/shortcode-fields.php:555
+msgid "Show Tags"
+msgstr "Показать метки"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:49
+#: includes/admin/shortcode-support/shortcode-fields.php:551
+msgid "Display post author."
+msgstr "Отобразить автора записи."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:43
+#: includes/admin/shortcode-support/shortcode-fields.php:545
+msgid "Show Author"
+msgstr "Показать автора"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:39
+#: includes/admin/shortcode-support/shortcode-fields.php:541
+msgid "Display post date."
+msgstr "Отобразить дату записи."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:37
+#: includes/admin/shortcode-support/shortcode-fields.php:47
+#: includes/admin/shortcode-support/shortcode-fields.php:57
+#: includes/admin/shortcode-support/shortcode-fields.php:68
+#: includes/admin/shortcode-support/shortcode-fields.php:78
+#: includes/admin/shortcode-support/shortcode-fields.php:88
+#: includes/admin/shortcode-support/shortcode-fields.php:110
+#: includes/admin/shortcode-support/shortcode-fields.php:146
+#: includes/admin/shortcode-support/shortcode-fields.php:156
+#: includes/admin/shortcode-support/shortcode-fields.php:167
+#: includes/admin/shortcode-support/shortcode-fields.php:177
+#: includes/admin/shortcode-support/shortcode-fields.php:325
+#: includes/admin/shortcode-support/shortcode-fields.php:339
+#: includes/admin/shortcode-support/shortcode-fields.php:371
+#: includes/admin/shortcode-support/shortcode-fields.php:394
+#: includes/admin/shortcode-support/shortcode-fields.php:405
+#: includes/admin/shortcode-support/shortcode-fields.php:451
+#: includes/admin/shortcode-support/shortcode-fields.php:463
+#: includes/admin/shortcode-support/shortcode-fields.php:539
+#: includes/admin/shortcode-support/shortcode-fields.php:549
+#: includes/admin/shortcode-support/shortcode-fields.php:559
+#: includes/admin/shortcode-support/shortcode-fields.php:569
+#: includes/admin/shortcode-support/shortcode-fields.php:579
+#: includes/admin/shortcode-support/shortcode-fields.php:589
+#: includes/admin/shortcode-support/shortcode-fields.php:610
+#: includes/admin/shortcode-support/shortcode-fields.php:660
+#: includes/admin/shortcode-support/shortcode-fields.php:670
+#: includes/admin/shortcode-support/shortcode-fields.php:680
+#: includes/admin/shortcode-support/shortcode-fields.php:690
+#: includes/admin/shortcode-support/shortcode-fields.php:838
+#: includes/admin/shortcode-support/shortcode-fields.php:852
+#: includes/admin/shortcode-support/shortcode-fields.php:863
+#: includes/admin/shortcode-support/shortcode-fields.php:874
+#: includes/admin/shortcode-support/shortcode-fields.php:906
+#: includes/admin/shortcode-support/shortcode-fields.php:929
+#: includes/admin/shortcode-support/shortcode-fields.php:940
+#: includes/admin/shortcode-support/shortcode-fields.php:986
+#: includes/admin/shortcode-support/shortcode-fields.php:998
+msgid "False"
+msgstr "Нет"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:36
+#: includes/admin/shortcode-support/shortcode-fields.php:46
+#: includes/admin/shortcode-support/shortcode-fields.php:56
+#: includes/admin/shortcode-support/shortcode-fields.php:67
+#: includes/admin/shortcode-support/shortcode-fields.php:77
+#: includes/admin/shortcode-support/shortcode-fields.php:87
+#: includes/admin/shortcode-support/shortcode-fields.php:109
+#: includes/admin/shortcode-support/shortcode-fields.php:145
+#: includes/admin/shortcode-support/shortcode-fields.php:155
+#: includes/admin/shortcode-support/shortcode-fields.php:166
+#: includes/admin/shortcode-support/shortcode-fields.php:176
+#: includes/admin/shortcode-support/shortcode-fields.php:324
+#: includes/admin/shortcode-support/shortcode-fields.php:338
+#: includes/admin/shortcode-support/shortcode-fields.php:370
+#: includes/admin/shortcode-support/shortcode-fields.php:393
+#: includes/admin/shortcode-support/shortcode-fields.php:404
+#: includes/admin/shortcode-support/shortcode-fields.php:450
+#: includes/admin/shortcode-support/shortcode-fields.php:462
+#: includes/admin/shortcode-support/shortcode-fields.php:538
+#: includes/admin/shortcode-support/shortcode-fields.php:548
+#: includes/admin/shortcode-support/shortcode-fields.php:558
+#: includes/admin/shortcode-support/shortcode-fields.php:568
+#: includes/admin/shortcode-support/shortcode-fields.php:578
+#: includes/admin/shortcode-support/shortcode-fields.php:588
+#: includes/admin/shortcode-support/shortcode-fields.php:609
+#: includes/admin/shortcode-support/shortcode-fields.php:659
+#: includes/admin/shortcode-support/shortcode-fields.php:669
+#: includes/admin/shortcode-support/shortcode-fields.php:679
+#: includes/admin/shortcode-support/shortcode-fields.php:689
+#: includes/admin/shortcode-support/shortcode-fields.php:837
+#: includes/admin/shortcode-support/shortcode-fields.php:851
+#: includes/admin/shortcode-support/shortcode-fields.php:862
+#: includes/admin/shortcode-support/shortcode-fields.php:873
+#: includes/admin/shortcode-support/shortcode-fields.php:905
+#: includes/admin/shortcode-support/shortcode-fields.php:928
+#: includes/admin/shortcode-support/shortcode-fields.php:939
+#: includes/admin/shortcode-support/shortcode-fields.php:985
+#: includes/admin/shortcode-support/shortcode-fields.php:997
+msgid "True"
+msgstr "Да"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:33
+#: includes/admin/shortcode-support/shortcode-fields.php:535
+msgid "Show Post Date"
+msgstr "Показать дату записи"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:29
+#: includes/admin/shortcode-support/shortcode-fields.php:531
+msgid "Choose design."
+msgstr "Выберите дизайн."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:26
+#: includes/admin/shortcode-support/shortcode-fields.php:528
+msgid "Design"
+msgstr "Дизайн"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:22
+#: includes/admin/shortcode-support/shortcode-fields.php:524
+msgid "General Parameters"
+msgstr "Основные параметры"
+
+#: includes/admin/class-psac-admin.php:40
+msgid "Shortcode Preview - Post Slider and Carousel"
+msgstr "Предпросмотр шорткода - Post Slider and Carousel"
+
+#: includes/admin/class-psac-admin.php:37
+msgid "Shortcode Builder"
+msgstr "Конструктор шорткодов"
+
+#: includes/admin/class-psac-admin.php:37
+msgid "Shortcode Builder - Post Slider and Carousel"
+msgstr "Конструктор шорткодов - Post Slider and Carousel"
+
+#: includes/admin/getting-started.php:48
+msgid "Post Slider and Carousel - Getting Started"
+msgstr "Слайдер записи и карусель - Начало работы"
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:122
+msgid "Note: Preview will be displayed according to responsive layout mode. Live preview may display differently when added to your page based on inheritance from some styles."
+msgstr "Примечание. Предварительный просмотр будет отображаться в соответствии с режимом адаптивного макета. Предварительный просмотр может отображаться по-разному при добавлении на страницу в зависимости от наследования от некоторых стилей."
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:112
+msgid "Preview will be displayed according to responsive layout mode. You can check with `Full Preview` mode for better visualization."
+msgstr "Предварительный просмотр будет отображаться в соответствии с режимом адаптивного макета. Вы можете выбрать \"Режим полного просмотра\" для лучшей визуализации."
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:112
+msgid "Preview Window"
+msgstr "Окно предпросмотра"
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:107
+msgid "Copy or Paste Shortcode"
+msgstr "Копировать или вставить шорткод"
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:103
+msgid "Full Preview Mode"
+msgstr "Режим полного просмотра"
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:100
+msgid "Paste below shortcode to any page or post to get output as preview."
+msgstr "Вставьте шорткод ниже на любую страницу или в запись, чтобы получить вывод как на предварительном просмотре."
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:100
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:86
+msgid "Shortcode Parameters"
+msgstr "Параметры шорткода"
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:81
+msgid ""
+"The shortcode builder allows you to preview plugin shortcode. You can choose your desired shortcode from the dropdown and check various parameters from left panel. \n"
+"\n"
+"You can paste shortcode to below and press Generate button to preview so each and every time you do not have to choose each parameters!!!"
+msgstr ""
+"Конструктор шорткодов позволяет предварительно просмотреть шорткод плагина. Вы можете выбрать нужный шорткод из выпадающего списка и проверить различные параметры на левой панели.\n"
+"\n"
+"Вы можете вставить шорткод ниже и нажать кнопку \"Создать\" для предварительного просмотра, чтобы каждый раз вам не приходилось выбирать каждый параметр!!!"
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:49
+msgid "-- Choose Shortcode --"
+msgstr "-- Выберите шорткод --"
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:40
+#: includes/admin/shortcode-generator/shortcode-generator.php:116
+msgid "Sorry, Something happened wrong."
+msgstr "Извините, что-то пошло не так."
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:31
+msgid "Post Slider and Carousel - Shortcode Builder"
+msgstr "Post Slider and Carousel - Конструктор шорткодов"
+
+#: includes/admin/shortcode-generator/shortcode-preview.php:68
+msgid "Sorry, You can not visit the link in preview mode."
+msgstr "Извините, вы не можете перейти по ссылке в режиме предварительного просмотра."
+
+#: includes/admin/class-psac-admin.php:40
+#: includes/admin/shortcode-generator/shortcode-preview.php:46
+msgid "Shortcode Preview"
+msgstr "Предпросмотр шорткода"
+
+#: includes/admin/shortcode-generator/shortcode-preview.php:37
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Извините, у вас нет доступа к этой странице."
+
+#: includes/psac-functions.php:171
+msgid "Post Carousel"
+msgstr "Карусель записей"
+
+#: includes/psac-functions.php:170
+msgid "Post Slider"
+msgstr "Слайдер записей"
+
+#: includes/admin/shortcode-generator/shortcode-generator.php:55
+#: includes/psac-functions.php:168
+msgid "General"
+msgstr "Основные"
+
+#: includes/class-psac-script.php:48
+msgid "Sorry, Something happened wrong. Kindly please be sure that you have choosen relevant shortcode from the dropdown."
+msgstr "Извините, что-то пошло не так. Пожалуйста, убедитесь, что вы выбрали соответствующий шорткод из выпадающего списка."
+
+#: includes/admin/getting-started.php:215
+msgid "Want to Check Premium Demo and Features?"
+msgstr "Хотите проверить демо-версию и возможности Премиум?"
+
+#: includes/admin/getting-started.php:210
+msgid "Premium Demo - Post Slider and Carousel"
+msgstr "Премиум демо - Post Slider and Carousel"
+
+#. Plugin Name of the plugin
+msgid "Post Slider and Carousel with Widget"
+msgstr "Post Slider and Carousel with Widget"
+
+#: includes/admin/getting-started.php:228
+msgid "Post Slider and Carousel Pro"
+msgstr "Post Slider and Carousel Pro"
+
+#: includes/admin/getting-started.php:217
+msgid "Premium Demo"
+msgstr "Демо-версия Premium"
+
+#: includes/admin/getting-started.php:216
+msgid "Checkout the premium demo with 5+ Layouts and 30+ Designs"
+msgstr "Ознакомьтесь с демо-версией премиум-класса с 5+ макетами и 30+ дизайнами"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:194
+#: includes/admin/shortcode-support/shortcode-fields.php:707
+#: includes/widgets/class-psac-post-scrolling-widget.php:185
+msgid "Speed"
+msgstr "Скорость"
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:179
+msgid "Pause"
+msgstr "Пауза"
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:173
+msgid "Height"
+msgstr "Высота"
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:168
+msgid "Content words limit will only work if Display Short Content checked"
+msgstr "Ограничение количества слов работает только если установлен флажок \"Показать краткое содержание\""
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:166
+msgid "Content words limit"
+msgstr "Ограничение количества слов содержимого"
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:147
+msgid "Open Link in a New Tab"
+msgstr "Открыть ссылку в новой вкладке"
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:137
+msgid "Display Thumbnail"
+msgstr "Отобразить миниатюру"
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:113
+msgid "Note: This parameter will not work when Number of Items is set to -1."
+msgstr "Примечание. Этот параметр не будет работать, если для параметра \"Число предметов\" установлено значение -1."
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:112
+msgid "Query `offset` parameter to exclude number of post. Leave empty for default."
+msgstr "Запросить параметр \"Смещение\" для исключения номера записи. По умолчанию — оставьте пустым."
+
+#: includes/admin/shortcode-support/shortcode-fields.php:504
+#: includes/admin/shortcode-support/shortcode-fields.php:1039
+#: includes/widgets/class-psac-post-scrolling-widget.php:110
+msgid "Query Offset"
+msgstr "Смещение запроса"
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:104
+msgid "Number of Items"
+msgstr "Число предметов"
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:93
+msgid "All"
+msgstr "Всё"
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:88
+msgid "Category"
+msgstr "Рубрика"
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:82
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:64
+#: includes/widgets/class-psac-post-scrolling-widget.php:201
+msgid "Latest Posts"
+msgstr "Последние записи"
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:24
+msgid "PSAC - Post Vertical Slider Widget"
+msgstr "PSAC - Post Vertical Slider Widget"
+
+#: includes/widgets/class-psac-post-scrolling-widget.php:23
+msgid "Display posts in a sidebar with vertical slider."
+msgstr "Отобразить сообщений на боковой панели с вертикальным ползунком."
+
+#. Author URI of the plugin
+msgid "https://premium.infornweb.com"
+msgstr "https://premium.infornweb.com"
+
+#: includes/admin/shortcode-support/shortcode-fields.php:259
+#: includes/admin/shortcode-support/shortcode-fields.php:772
+#: templates/carousel/design-1.php:53 templates/carousel/design-2.php:57
+#: templates/slider/design-1.php:50 templates/slider/design-2.php:50
+msgid "Read More"
+msgstr "Читать далее"
+
+#: includes/shortcodes/psac-recent-post-carousel.php:141
+#: includes/shortcodes/psac-recent-post-slider.php:137
+msgid "Replies"
+msgstr "Ответы"
+
+#: includes/shortcodes/psac-recent-post-carousel.php:141
+#: includes/shortcodes/psac-recent-post-slider.php:137
+msgid "Reply"
+msgstr "Ответить"
+
+#: includes/psac-functions.php:140 includes/psac-functions.php:153
+msgid "Design 2"
+msgstr "Дизайн 2"
+
+#: includes/psac-functions.php:139 includes/psac-functions.php:152
+msgid "Design 1"
+msgstr "Дизайн 1"
+
+#. Author of the plugin
+msgid "InfornWeb"
+msgstr "InfornWeb"
+
+#. Plugin URI of the plugin
+msgid "https://demo.infornweb.com/post-slider-and-carousel/"
+msgstr "https://demo.infornweb.com/post-slider-and-carousel/"
+
+#: includes/admin/class-psac-admin.php:34 post-slider-and-carousel.php:126
+msgid "Post Slider and Carousel"
+msgstr "Post Slider and Carousel"
