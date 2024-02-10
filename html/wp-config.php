@@ -132,8 +132,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
 
-#define('WP_SITEURL', 'http://127.0.0.1:8888');
-#define('WP_HOME', 'http://127.0.0.1:8888');
+define('WP_SITEURL', 'http://127.0.0.1:8888');
+define('WP_HOME', 'http://127.0.0.1:8888');
 
-define('WP_SITEURL', 'http://195.133.32.53:8888');
-define('WP_HOME', 'http://195.133.32.53:8888');
+#define('WP_SITEURL', 'http://195.133.32.53:8888');
+#define('WP_HOME', 'http://195.133.32.53:8888');
